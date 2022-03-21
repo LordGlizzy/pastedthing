@@ -33,9 +33,3 @@ Current features:
 - Adding Carfly, teleport and more soon
 
 
-
-
-
-
-
-
