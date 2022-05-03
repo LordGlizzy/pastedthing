@@ -1,4 +1,5 @@
-# Fortnite-Internal-Cheat-Fixed-and-Updated
+# GlizzyFN - OP Pasted FN Cheat
+UD as of May 2022.
 
 Current features:
 
@@ -30,4 +31,3 @@ Current features:
 - Crosshair
 - Visible Check
 - Rainbow Mode (rgb visuals)
-- Adding Carfly, teleport and more soon
