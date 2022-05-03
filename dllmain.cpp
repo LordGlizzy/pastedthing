@@ -184,7 +184,7 @@ namespace HookFunctions {
 
 void gaybow(ImGuiWindow& window) {
 	auto RGB = ImGui::GetColorU32({ color_red, color_green, color_blue, 255 });
-	DrawWaterMark(window, "Blinded is sex", ImVec2(50, 100), RGB, false);
+	DrawWaterMark(window, "EscobarFN", ImVec2(50, 100), RGB, false);
 	//DrawWaterMark(window, "Second text", ImVec2(50, 120), FpsColor, false);
 
 	if (Settings::Speed) {
